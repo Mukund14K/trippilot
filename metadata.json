@@ -1,0 +1,6 @@
+{
+  "name": "TripPilot",
+  "description": "Tactile, editorial AI-powered travel planning and itinerary optimization for unforgettable journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
